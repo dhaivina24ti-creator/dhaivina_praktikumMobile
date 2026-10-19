@@ -1,8 +1,7 @@
-package com.example.dhaivina_3tib.pertemuan5
+package com.example.dhaivina_3tib.Home.pertemuan5
 
 import android.content.Intent
 import android.os.Bundle
-import android.view.LayoutInflater
 import android.view.Menu
 import android.view.MenuItem
 import android.widget.Toast

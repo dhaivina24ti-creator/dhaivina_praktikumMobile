@@ -1,4 +1,4 @@
-package com.example.dhaivina_3tib.pertemuan5
+package com.example.dhaivina_3tib.Home.pertemuan5
 
 import android.os.Bundle
 import android.view.MenuItem
@@ -8,7 +8,6 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import com.example.dhaivina_3tib.R
-import com.example.dhaivina_3tib.databinding.ActivityMainBinding
 import com.example.dhaivina_3tib.databinding.ActivityWebViewBinding
 
 class WebViewActivity : AppCompatActivity() {
